@@ -1,28 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Keith Rose's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Keith Rose
+Senior Network & Security Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="me@keithro.se">me@keithro.se</a>
+| <a href="https://www.keithro.se">My Blog</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Network & Security Consultant @ HybrIT
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Networking, SD-WAN, Fortinet, NX-OS, BGP, OSPF, IPAM, Security, Network Automation, Network Monitoring
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cybersecurity, Penetration Testing, Network Automation
 
 
 ## Education
